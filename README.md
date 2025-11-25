@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://i.ibb.co/3y8mtqL/github-banner-tech.gif" width="100%" alt="Kolipaka Hemanth Kumar Banner"/>
 
-<h1>👋 Hi, I'm <strong>Kolipaka Hemanth Kumar</strong></h1>
+<h1>👋 Hi, I'm <strong>KONALA MURALI KRISHNA</strong></h1>
 <h3>💻 Frontend Developer | 🎓 CSE Student | ⚛️ React Enthusiast</h3>
 
 <p>
